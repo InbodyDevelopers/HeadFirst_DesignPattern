@@ -1,1 +1,1 @@
-# HeadFirst_DesignPattern
+# 디자인 패턴 스터디 공유 용 레포입니다!
